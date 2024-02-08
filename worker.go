@@ -1,7 +1,7 @@
 package gosms
 
 import (
-	"github.com/haxpax/gosms/modem"
+	"github.com/khulnasoft-lab/gosms/modem"
 	"log"
 	"strings"
 	"time"

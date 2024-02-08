@@ -18,7 +18,7 @@ or have minimal requirements for personal / internal use and such
 - takes care of queuing, throttling and retrying
 - supports multiple devices at once
 
-![gosms dashboard](https://raw.githubusercontent.com/haxpax/gosms/screenshot/screenshots/gosms.png)
+![gosms dashboard](https://raw.githubusercontent.com/khulnasoft-lab/gosms/screenshot/screenshots/gosms.png)
 
 deployment
 ----------
@@ -79,8 +79,8 @@ building from source
 
 
 On Ubuntu
-- go get github.com/haxpax/gosms
-- cd $GOPATH/src/github.com/haxpax/gosms/dashboard
+- go get github.com/khulnasoft-lab/gosms
+- cd $GOPATH/src/github.com/khulnasoft-lab/gosms/dashboard
 - go get
 - go build
 
@@ -95,8 +95,8 @@ On Windows
 	- Install
 	- Add its bin dir to path, typically `C:\Program Files\mingw-w64\x86_64-4.9.2-posix-seh-rt_v3-rev1\mingw64\bin`
 
-- go get `github.com/haxpax/gosms`
-- cd $GOPATH/src/github.com/haxpax/gosms/dashboard
+- go get `github.com/khulnasoft-lab/gosms`
+- cd $GOPATH/src/github.com/khulnasoft-lab/gosms/dashboard
 - go get
 - go build
 

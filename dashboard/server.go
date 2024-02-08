@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/haxpax/gosms"
+	"github.com/khulnasoft-lab/gosms"
 	"github.com/gorilla/mux"
 	"github.com/satori/go.uuid"
 	"html/template"
