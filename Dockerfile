@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:22.04
 MAINTAINER Omie <intelomkar@gmail.com>
 
 RUN apt-get update
